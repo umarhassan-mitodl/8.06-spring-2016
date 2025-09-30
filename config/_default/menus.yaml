@@ -1,0 +1,48 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 20374a82-0390-6eb0-d2bb-bd9629fb5e35
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 3afbb869-22cd-4739-092c-81ab6f1bd3d6
+  name: Goals of the Term Paper Assignment
+  pageRef: /pages/instructor-insights/goals-of-the-term-paper-assignment
+  parent: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
+  weight: 30
+- identifier: a9911784-afac-d75d-c421-c3470aab0d54
+  name: Providing Feedback on Student Writing
+  pageRef: /pages/instructor-insights/providing-feedback-on-student-writing
+  parent: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
+  weight: 40
+- identifier: f927fa6a-d0ea-a525-c862-f64d3557f14e
+  name: Supporting Students During Problem Solving
+  pageRef: /pages/instructor-insights/supporting-students-during-problem-solving
+  parent: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
+  weight: 50
+- identifier: 3ab7a216-7e0e-2237-4a6c-b133b74a3073
+  name: Selecting Lecture Material
+  pageRef: /pages/instructor-insights/selecting-lecture-material
+  parent: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
+  weight: 60
+- identifier: c46b3d3e-bcda-4e5e-a752-5e1d5ccb5400
+  name: Teaching Recitations
+  pageRef: /pages/instructor-insights/teaching-recitations
+  parent: 37a5c492-c04a-75b7-e3ad-67d5c983f6a3
+  weight: 70
+- identifier: 70afdb39-f34a-2f4a-5945-77e12d2db83e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: c12a6c26-ce95-2fb6-d666-daf4f93f8f4d
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 90
+- identifier: bc285b80-4954-0dae-1aa4-109b4bfcb10a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
