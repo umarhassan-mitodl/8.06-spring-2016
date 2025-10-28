@@ -5,8 +5,6 @@ description: This is a file that contains information regarding quantum physics 
 file: /courses/8-06-quantum-physics-iii-spring-2016/e498e7c0d2db9e3846df12bfdac3e10e_MIT8_06S16_TermPaper.pdf
 file_size: 231765
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
